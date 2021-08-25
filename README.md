@@ -4,7 +4,7 @@
 
 <p><em>Software Enginner at Beijing </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/qicz?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Qicz](https://img.shields.io/github/followers/qicz?label=follow&style=social)](https://github.com/qicz)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/qicz)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/qicz)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/qicz)](https://badges.pufler.dev)
